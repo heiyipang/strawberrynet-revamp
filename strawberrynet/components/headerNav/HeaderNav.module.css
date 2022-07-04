@@ -1,0 +1,16 @@
+.navItem {
+    display: inline-block;
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+    font-weight: bold;
+}
+
+.navBar {
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: var(--bounding-width);
+    max-width: var(--bounding-max-width);
+}

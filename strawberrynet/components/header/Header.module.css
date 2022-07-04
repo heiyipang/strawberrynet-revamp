@@ -1,0 +1,79 @@
+.headerContainer {
+    width: 100%;
+    background-color: white;
+    position: relative;
+}
+
+.notificationBar {
+    width: 100%;
+    min-height: 30px;
+    background-color: var(--theme);
+    color: black;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.notificationBar h4 {
+    font-size: 0.8em;
+    margin: 0;
+}
+
+.logoImg {
+    /* position: absolute;
+    left: 50%;
+    transform: translateX(-50%); */
+    width: 20%;
+    min-width: 200px;
+    height: auto;
+    margin: 10px auto;
+}
+
+.headerBar {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 100px;
+    background-color: white;
+}
+
+.headerBarInner {
+    position: relative;
+    width: var(--bounding-width);
+    max-width: var(--bounding-max-width);;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+
+/* .headerBarInner * {
+    margin: 10px auto;
+} */
+
+.searchBar {
+    width: 20%;
+    background: transparent;
+    border: none;
+    border-bottom: 1px black solid;
+    border-radius: 0;
+}
+
+.buttonWrapper {
+    width: 20%;
+}
+
+.headerIcon {
+    width: 20px;
+    height: auto;
+    margin-left: 10px;
+    float: right;
+}
+
+
+.linkStrip {
+    color: var(--black); /* blue colors for links too */
+    text-decoration: underline;
+}

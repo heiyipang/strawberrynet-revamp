@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="31px" viewBox="0 0 24 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>CA788AEE-811C-49FC-A288-8C6B0A1CF38A</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.009324 0 0 0 0 0.009324 0 0 0 0 0.009324 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="translate(-1314.000000, -69.000000)" id="Group">
+            <g transform="translate(110.000000, 68.000000)">
+                <g id="empty-bag" transform="translate(1204.000000, 1.000000)" filter="url(#filter-1)">
+                    <g transform="translate(1.655172, 2.513514)">
+                        <path d="M4.96551724,9.21621622 L4.96551724,5.18412725 C4.96259125,3.80827649 5.48479818,2.48789358 6.41664986,1.51501776 C7.34850153,0.54214194 8.61320665,-0.00305480715 9.93104065,0 L9.93104065,0 C11.2479761,0 12.5109732,0.546194787 13.4421872,1.51840482 C14.3734012,2.49061486 14.8965517,3.80921464 14.8965517,5.18412725 L14.8965517,9.21621622" id="Path" stroke="#163567" stroke-width="2"></path>
+                        <path d="M17.3029647,25.972973 L3.40928899,25.972973 C2.44207412,25.9789573 1.51844642,25.5589318 0.87104426,24.8186259 C0.223642102,24.07832 -0.0858258257,23.0882977 0.0205875919,22.0979205 L1.88437336,5.02702703 L18.8278803,5.02702703 L20.6690748,22.0979205 C20.7750361,23.0842561 20.4685149,24.0704371 19.8261394,24.8099249 C19.1837639,25.5494128 18.2662481,25.9723149 17.3029647,25.972973 Z" id="Path" stroke="#163567" stroke-width="2"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
