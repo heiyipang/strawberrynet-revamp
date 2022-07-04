@@ -1,0 +1,6 @@
+@import '../../constants/global.css';
+
+body {
+    background-color: var(--black);
+    color: var(--white);
+}
